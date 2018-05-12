@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32734
     wikipedia: http://nl.wikipedia.org/wiki/Guido_Gezelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27803#Kerkhofblommen
 gutenberg_issued: '2009-01-13'
 gutenberg_type: Text
 identifiers:
